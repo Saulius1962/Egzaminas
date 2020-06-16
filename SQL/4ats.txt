@@ -1,0 +1,3 @@
+skyrius,	darbuotoju_skaicius
+IT,		3
+Buhalterija,	2

@@ -1,0 +1,3 @@
+vardas,pavarde,gmetai
+Gediminas,Jonaitis,1990
+Vladislavas,Lukšys,1990

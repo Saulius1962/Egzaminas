@@ -1,0 +1,3 @@
+gmetai,vardas,pavarde
+1990,Vladislavas,Lukšys
+1991,Rimas,Motuza

@@ -1,0 +1,2 @@
+gimimo_metai,darbuotoju_skaicius
+1991,3
